@@ -1,5 +1,7 @@
 # budget-tracker
 
+Depoyed Link: https://fast-thicket-52753.herokuapp.com/
+
 AS A human who uses currency
 I WANT TO keep track of my budget
 SO THAT I can save money
